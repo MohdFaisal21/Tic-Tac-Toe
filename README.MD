@@ -18,6 +18,6 @@ The game checks for a winner or a draw after each move.
 - JavaScript
 
 ## Screenshot
-![alt text](Step1.png)
-![alt text](Step2.png)
-![alt text](Step3.png)
+![alt text](/assets/Step1.png)
+![alt text](./assets/Step2.png)
+![alt text](./assets/Step3.png)
